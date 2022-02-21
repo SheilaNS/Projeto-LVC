@@ -1,0 +1,27 @@
+{
+  "name": "projeto-lvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SheilaNS/Projeto-LVC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SheilaNS/Projeto-LVC/issues"
+  },
+  "homepage": "https://github.com/SheilaNS/Projeto-LVC#readme",
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "prop-types": "^15.8.1"
+  },
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
